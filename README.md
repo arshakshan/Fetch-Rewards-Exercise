@@ -14,7 +14,7 @@ A native Android app written in Kotlin that retrieves and displays data from the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/FetchRewardsApp.git
+git clone https://github.com/arshakshan/Fetch-Rewards-Exercise
 ```
 2. Open the project in Android Studio.
 
