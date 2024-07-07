@@ -2,6 +2,8 @@
 
 A native Android app written in Kotlin that retrieves and displays data from the Fetch Rewards API. The data is displayed in a sorted and filtered list based on the requirements.
 
+Tested on Pixel 3a API 33
+
 ## Features
 
 - Fetch data from the Fetch Rewards API
